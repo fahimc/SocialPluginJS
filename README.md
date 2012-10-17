@@ -49,3 +49,6 @@ To configure the buttons add the following parameters to the source of the ifram
 				<td>set this to false to not show the google plus button</td>
 			</tr>
 		</table>
+
+##DEMO  
+[example](http://fahimchowdhury.com/services/social/example.html)
