@@ -3,6 +3,8 @@ SocialPluginJS
 
 An iframe to embed facebook, twitter, google plus buttons with customisable url parameters
 
+![socialplugins](http://fahimchowdhury.com/services/social/resource/image/buttons.jpg)
+
 ##EMBEDDING INTO A PAGE  
 You need to insert the iframe with your HTML page.  
 
