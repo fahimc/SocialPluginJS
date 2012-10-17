@@ -1,7 +1,7 @@
 SocialPluginJS
 ==============
 
-An iframe to embed facebook, twitter, google plus buttons with customisable url parameters
+An iframe to embed facebook, twitter, google plus buttons which can be customised with url parameters.
 
 ![socialplugins](http://fahimchowdhury.com/services/social/resource/image/buttons.jpg)
 
