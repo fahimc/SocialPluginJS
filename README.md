@@ -11,9 +11,12 @@ You need to insert the iframe with your HTML page.
      <iframe width="450" height="100" src="http://fahimchowdhury.com/services/social/socialplugin.html?url=fahimchowdhury.com" frameborder="0" scrolling="no" allowTransparency="true"></iframe>
 
 ##CONFIGURE SOCIAL BUTTONS  
+To configure the buttons add the following parameters to the source of the iframe, for example:  
+
+    src="http://fahimchowdhury.com/services/social/socialplugin.html?url=myurl&facebookWidth=200"
 
 <table>
-     		<tr>
+			<tr>
 				<td><b>Parameter</b></td>
 				<td><b>Description</b></td>
 			</tr>
